@@ -1,5 +1,6 @@
-# penguin: Polygenic Evaluation of Novel Genome Using Infrastructral Nodes 
+# **PENGUIN**: **P**hylogenetic **E**valuation of **N**ovel **G**enomes **U**sing **I**nfrastructral **N**odes    
 
+<br/>
 
 > ## Ideally, we could see the virus mutation data like below
 > > ### graph-based
@@ -7,20 +8,22 @@
 
 ![ECG](./images/ecg.gif)
 
+<br/>   
 
-> ## The idea is that a basic tree with "infrastructral nodes" is constructed.
+> ## The idea is that a basic tree with "infrastructral nodes" is constructed   
 > - ### This basic tree is like the "London Eye", relatively stable.
 > - ### When more and more virus sequence is added, like the tree leaves, some of the "novel" leaves could potentially move the tree a tiny bit.
 > - ### The following visualization is from "Wind and Words" By Impossible Bureau, ranked "The 25 Best Data Visualizations of 2018".
 
 ![London-Eye](./images/londoneye.gif)
 
+<br/>   
 
-> ## Finally, we aim to dilver a visualization accessible to everyone, just like the screen protection image on Mac OS
+> ## Finally, we aim to dilver a visualization accessible to everyone, just like the screen protection image on Mac OS   
 
 ![Screensaver](./images/screensaver.gif)
 
-
+<br/>   
 
 
 ## Visualization tools: 
