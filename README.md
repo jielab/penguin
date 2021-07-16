@@ -1,4 +1,4 @@
-# penguin: Polygenic Evaluation of Novel Genome Using Infrastrucutral Nodes 
+# penguin: Polygenic Evaluation of Novel Genome Using Infrastructral Nodes 
 
 
 > ## Ideally, we could see the virus mutation data like below
@@ -7,15 +7,17 @@
 
 ![ECG](./images/ecg.gif)
 
-> furthermore, we aim to dilver a visualization accessible to everyone
-> > just like the screen protection image on Mac OS
+> The idea is that a basic tree with "infrastructral nodes" is constructed, and it is relatively stable. 
+> When more and more virus sequence is added, like the tree leaves, some of the "novel" leaves could potentially move the tree a tiny bit.
+> > The visualization would look like "Wind and Words" By Impossible Bureau, ranked "The 25 Best Data Visualizations of 2018".
+
+![Screensaver](./images/rotate.gif)
+
+> Finally, we aim to dilver a visualization accessible to everyone, just like the screen protection image on Mac OS
 
 ![Screensaver](./images/screensaver.gif)
 
-> The idea is that a basic tree is constructed. It is relatively stable.
-> When new virus sequence is added, it could potentially move the tree a tiny bit.
 
-![Screensaver](./images/rotate.gif)
 
 
 ## Visualization tools: 
