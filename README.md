@@ -1,4 +1,4 @@
-**PENGUIN**: **P**hylogenetic **E**valuation of **N**ovel **G**enomes **U**sing **I**nfrastructral **N**odes    
+## __PENGUIN__: **P**hylogenetic **E**valuation of **N**ovel **G**enomes **U**sing **I**nfrastructral **N**odes    
 
 <br/><br/><br/>
 
