@@ -1,14 +1,6 @@
 # **PENGUIN**: **P**hylogenetic **E**valuation of **N**ovel **G**enomes **U**sing **I**nfrastructral **N**odes    
 
-<br/>
-
-> ## Ideally, we could see the virus mutation data like below
-> > ### graph-based
-> > ### head-to-head comparison
-
-![ECG](./images/ecg.gif)
-
-<br/>   
+<br/><br/><br/>
 
 > ## The idea is that a basic tree with "infrastructral nodes" is constructed   
 > - ### This basic tree is like the "London Eye", relatively stable.
@@ -19,11 +11,20 @@
 
 <br/>   
 
+
+> ## Ideally, we could see the virus mutation data like below
+> > - ### it is "graph-based". As we know, ACGT does not read well, and mutation is not simply single letter substitution.
+> > - ### it is good to have "head-to-head comparison"
+
+![ECG](./images/ecg.gif)
+
+<br/><br/>   
+
 > ## Finally, we aim to dilver a visualization accessible to everyone, just like the screen protection image on Mac OS   
 
 ![Screensaver](./images/screensaver.gif)
 
-<br/>   
+<br/><br/>
 
 
 ## Visualization tools: 
