@@ -8,11 +8,12 @@
 ![ECG](./images/ecg.gif)
 
 
-> ## The idea is that a basic tree with "infrastructral nodes" is constructed, and it is relatively stable. 
-> ## When more and more virus sequence is added, like the tree leaves, some of the "novel" leaves could potentially move the tree a tiny bit.
-> > ### The following visualization is from "Wind and Words" By Impossible Bureau, ranked "The 25 Best Data Visualizations of 2018".
+> ## The idea is that a basic tree with "infrastructral nodes" is constructed.
+> - ### This basic tree is like the "London Eye", relatively stable.
+> - ### When more and more virus sequence is added, like the tree leaves, some of the "novel" leaves could potentially move the tree a tiny bit.
+> - ### The following visualization is from "Wind and Words" By Impossible Bureau, ranked "The 25 Best Data Visualizations of 2018".
 
-![Screensaver](./images/rotate.gif)
+![London-Eye](./images/londoneye.gif)
 
 
 > ## Finally, we aim to dilver a visualization accessible to everyone, just like the screen protection image on Mac OS
