@@ -1,21 +1,21 @@
 # penguin: Polygenic Evaluation of Novel Genome Using Infrastrucutral Nodes 
 
 
-> Ideally, we could see the virus mutation data like below
-> > graph-based
-> > head-to-head comparison
+> ## Ideally, we could see the virus mutation data like below
+> > ## graph-based
+> > ## head-to-head comparison
 
 ![ECG](./images/ecg.gif)
 
 > furthermore, we aim to dilver a visualization accessible to everyone
 > > just like the screen protection image on Mac OS
 
-![](./images/screen.gif)
+![Screensaver](./images/screensaver.gif)
 
 > The idea is that a basic tree is constructed. It is relatively stable.
 > When new virus sequence is added, it could potentially move the tree a tiny bit.
 
-![Screenshot](./images/rotate.gif)
+![Screensaver](./images/rotate.gif)
 
 
 ## Visualization tools: 
