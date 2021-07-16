@@ -10,7 +10,7 @@
 > furthermore, we aim to dilver a visualization accessible to everyone
 > > just like the screen protection image on Mac OS
 
-![screen](./images/screen.gif)
+![](./images/screen.gif)
 
 > The idea is that a basic tree is constructed. It is relatively stable.
 > When new virus sequence is added, it could potentially move the tree a tiny bit.
