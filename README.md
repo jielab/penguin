@@ -3,11 +3,11 @@
 <br/><br/><br/>
 
 > ## Phylogenetic tree is widely used these days to track the origins of microbes including SARS-COV-2. 
-> > ## A phylogenetic tree is defined by a few "infrastructral nodes", that is very stable. 
-> > ## For example, even though there are thousands of SARS-COV-2 genomes data posted every day, almost none of them will affect the basic phylogenetic tree. This basic tree is like the "London Eye", shown as below.
-> > ## Everyday, numerous genomes come in and researchers want to evaluate their impact on the basic tree. 
-> > ## However, just like the leaves in the following picutre. Almost no "new-comers" make any impact on the tree. 
-> > ## Researchers are looking for "novel" genomes that could make a real effect, those "hits" that could either imply a new origin (a genome fits between the reference SARS-COV-2 and the Bat RATG13 genome for example) or indicate a new type of variants. 
+> - ## A phylogenetic tree is defined by a few "infrastructral nodes", that is very stable. 
+> - ## For example, even though there are thousands of SARS-COV-2 genomes data posted every day, almost none of them will affect the basic phylogenetic tree. This basic tree is like the "London Eye", shown as below.
+> - ## Everyday, numerous genomes come in and researchers want to evaluate their impact on the basic tree. 
+> - ## However, just like the leaves in the following picutre. Almost no "new-comers" make any impact on the tree. 
+> - ## Researchers are looking for "novel" genomes that could make a real effect, those "hits" that could either imply a new origin (a genome fits between the reference SARS-COV-2 and the Bat RATG13 genome for example) or indicate a new type of variants. 
 
 ![London-Eye](./images/londoneye.gif)
 > - ### The above visualization is from "Wind and Words" By Impossible Bureau, ranked "The 25 Best Data Visualizations of 2018".
