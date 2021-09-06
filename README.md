@@ -1,33 +1,29 @@
-## __PENGUIN__: **P**hylogenetic **E**valuation of **N**ovel **G**enomes **U**sing **I**nfrastructral **N**odes    
+## PENGUIN: Phylogenetic Evaluation of Novel Genomes Using Infrastructral Nodes    
 
 <br/><br/><br/>
 
-> ## The idea is that a basic tree with "infrastructral nodes" is constructed   
-> - ### This basic tree is like the "London Eye", relatively stable.
-> - ### When more and more virus sequence is added, like the tree leaves, some of the "novel" leaves could potentially move the tree a tiny bit.
-> - ### The following visualization is from "Wind and Words" By Impossible Bureau, ranked "The 25 Best Data Visualizations of 2018".
+> ## The idea is that a phylogenetic tree is defined by a few "infrastructral nodes", that is very stable. 
+## For example, even though there are thousands of SARS-COV-2 genomes data posted every day, almost none of them will affect the basic phylogenetic tree. This basic tree is like the "London Eye", shown as below.
+## Everyday, numerous genomes come in. But they are like the leaves in the following picutre. They won't be able to make any impact on the tree. Researchers are looking for "hits" that could make a real effect, those "hits" could either imply a new origin (a genome fits between the reference SARS-COV-2 and the Bat RATG13 genome for example) or indicate a new type of variants. 
 
 ![London-Eye](./images/londoneye.gif)
+> - ### The above visualization is from "Wind and Words" By Impossible Bureau, ranked "The 25 Best Data Visualizations of 2018".
 
 <br/><br/>  
 
 
-> ## Ideally, we could see the virus mutation data like below
-> > - ### it is "graph-based". As we know, ACGT does not read well, and mutation is not simply single letter substitution.
-> > - ### it is good to have "head-to-head comparison"
-
-![ECG](./images/ecg.gif)
-
-<br/><br/>   
-
-> ## Finally, we aim to dilver a visualization accessible to everyone, just like the screen protection image on Mac OS   
+> ## The lofty goal of PGEGUIN is to develop an easy-to-understand visualization that could be widely adopted by the general public. 
+## These days, too many publications and software could not go beyond the academic field to move into the general public. 
+## We think that "a screensaver", like the following screen protection image for the Mac OS, could be attrative and easily accessible to the general public. 
+## This will significantly promote science for the general public, and contribute something in the memory of SARS-COV-2 for the future generation. 
+## Unlike a typical screensaver, the PENGUIN is dynamic and real-time, based on real genomic data, that could be obtained from GISAID through API. 
 
 ![Screensaver](./images/screensaver.gif)
 
 <br/><br/>
 
 
-## Visualization tools: 
+## Reference for Visualization tools: 
 1. ESRI- GIS: coronavirus-disasterresponse.hub.arcgis.com
 2. HealthMap: healthmap.org/promed
 3. Citicorp
