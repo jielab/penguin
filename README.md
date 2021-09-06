@@ -15,11 +15,11 @@
 <br/><br/>  
 
 
-> ## The lofty goal of PGEGUIN is to develop an easy-to-understand visualization that could be widely adopted by the general public. 
-> > ## These days, too many publications and software could not go beyond the academic field to move into the general public. 
-> > ## We think that "a screensaver", like the following screen protection image for the Mac OS, could be attrative and easily accessible to the general public. 
-> > ## This will significantly promote science for the general public, and contribute something in the memory of SARS-COV-2 for the future generation. 
-> > ## Unlike a typical screensaver, the PENGUIN is dynamic and real-time, based on real genomic data, that could be obtained from GISAID through API. 
+> ## The lofty goal of PGEGUIN is to develop an easy-to-understand visualization that could be widely adopted by the general public, so that more people could undertand how this works and participate in this scientific activity.
+> - ## These days, too many publications and software could not go beyond the academic field to move into the general public. 
+> - ## We think that "a screensaver", like the following screen protection image for the Mac OS, could be attrative and easily accessible to the general public. 
+> - ## This will significantly promote science for the general public, and contribute something in the memory of SARS-COV-2 for the future generation. 
+> - ## Unlike a typical screensaver, the PENGUIN is dynamic and real-time, based on real genomic data, that could be obtained from GISAID through API. 
 
 ![Screensaver](./images/screensaver.gif)
 
