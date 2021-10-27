@@ -1,41 +1,30 @@
-## PENGUIN: Phylogenetic Evaluation of Novel Genomes Using Infrastructral Nodes    
+## PENGUIN: Practical Examining of maNy GWAS to Uncover Interactions and Networks  
 
 <br/><br/><br/>
 
-> ## Phylogenetic tree is widely used these days to track the origins of microbes including SARS-COV-2. 
-> - ## A phylogenetic tree is defined by a few "infrastructral nodes", that is very stable. 
-> - ## For example, even though there are thousands of SARS-COV-2 genomes data posted every day, almost none of them will affect the basic phylogenetic tree. This basic tree is like the "London Eye", shown as below.
-> - ## Everyday, numerous genomes come in and researchers want to evaluate their impact on the basic tree. 
-> - ## However, just like the leaves in the following picutre. Almost no "new-comers" make any impact on the tree. 
-> - ## Researchers are looking for "novel" genomes that could make a real effect, those "hits" that could either imply a new origin (a genome fits between the reference SARS-COV-2 and the Bat RATG13 genome for example) or indicate a new type of variants. 
+> ## There days, there are too many GWAS dataset published, with or without publications. There are also quite many software and tools to analyze GWAS. However, there is a lack of user-friendly platform to analyze many GWAS in a systematic framework.  
+> ## The five C of PENGUIN:
+> - ## Crossing: cross GWAS QC (comparing EAF and BETA), and cross-trait meta-analyses.
+> - ## Correlation: using methods such as LDSC to calculate genetic correlation.
+> - ## Causation: using Mendelian Randomization to assess causality. 
+> - ## Colocalization: for pleiotropic loci of interest, finding causal variants and mechanisms.  
+> - ## Connection: finding common pathways and networks, implicating potential drug targets.   
 
-![London-Eye](./images/londoneye.gif)
-> - ### The above visualization is from "Wind and Words" By Impossible Bureau, ranked "The 25 Best Data Visualizations of 2018".
 
 <br/><br/>  
 
+1. Crossing example plot 
+![London-Eye](./images/mhplot.png)
 
-> ## The lofty goal of PGEGUIN is to develop an easy-to-understand visualization that could be widely adopted by the general public, so that more people could undertand how this works and participate in this scientific activity.
-> - ## These days, too many publications and software could not go beyond the academic field to move into the general public. 
-> - ## We think that "a screensaver", like the following screen protection image for the Mac OS, could be attrative and easily accessible to the general public. 
-> - ## This will significantly promote science for the general public, and contribute something in the memory of SARS-COV-2 for the future generation. 
-> - ## Unlike a typical screensaver, the PENGUIN is dynamic and real-time, based on real genomic data, that could be obtained from GISAID through API. 
+2. Correlation example plot 
+![London-Eye](./images/correlation.png)
 
-![Screensaver](./images/screensaver.gif)
+3. Causation example plot 
+![London-Eye](./images/mr.png)
 
-<br/><br/>
+4. Colocalization example plot 
+![London-Eye](./images/colocalization.png)
 
-
-## Reference for Visualization tools: 
-1. ESRI- GIS: coronavirus-disasterresponse.hub.arcgis.com
-2. HealthMap: healthmap.org/promed
-3. Citicorp
-4. Veratect
-5. Picmonic: https://www.picmonic.com
-6. Gephi - The Open Graph Viz Platform
-7. CCDC: 2019ncov.chinacdc.cn/2019-ncov
-8. vis.pku.edu.cn/ncov
-9. coronavirus.app
-10. jupyter.e-courses.cn
-11. Phylo3D: https://github.com/logogin/phylo3D
-12. National Genomics Data Center：https://ngdc.cncb.ac.cn/
+5. Connection 
+![London-Eye](./images/interaction.png)
+![London-Eye](./images/network.png)
