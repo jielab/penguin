@@ -20,7 +20,7 @@
 ![London-Eye](./images/correlation.png)
 
 3. Causation example plot 
-![London-Eye](./images/mr.png)
+![London-Eye](./images/mr.tif)
 
 4. Colocalization example plot 
 ![London-Eye](./images/colocalization.png)
