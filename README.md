@@ -15,15 +15,24 @@
 ## 1. Crossing example output
 ![London-Eye](./images/mhplot.png)
 
+<br/> 
+
 ## 2. Correlation example output 
 ![London-Eye](./images/correlation.png)
+
+<br/> 
 
 ## 3. Causation example output
 ![London-Eye](./images/mr.png)
 
+<br/> 
+
 ## 4. Colocalization example output
 ![London-Eye](./images/colocalization.png)
 
+<br/> 
+
 ## 5. Connection example output
 ![London-Eye](./images/interaction.png)
+<br/> 
 ![London-Eye](./images/network.png)
