@@ -12,18 +12,18 @@
 
 <br/><br/>  
 
-## 1. Crossing example plot 
+## 1. Crossing example output
 ![London-Eye](./images/mhplot.png)
 
-## 2. Correlation example plot 
+## 2. Correlation example output 
 ![London-Eye](./images/correlation.png)
 
-## 3. Causation example plot 
+## 3. Causation example output
 ![London-Eye](./images/mr.png)
 
-## 4. Colocalization example plot 
+## 4. Colocalization example output
 ![London-Eye](./images/colocalization.png)
 
-## 5. Connection 
+## 5. Connection example output
 ![London-Eye](./images/interaction.png)
 ![London-Eye](./images/network.png)
