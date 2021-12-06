@@ -1,38 +1,60 @@
-## PENGUIN: Practical Examining of maNy GWAS for Unconfounded bIological kNowledge
+
+## PENGUIN: Portable Engine for maNy GWAS towards Unconfounded bIological kNowledge
 <br/>
 
-> ## There days, there are too many GWAS dataset published, with or without publications. There are also quite many software and tools to analyze GWAS. However, there is a lack of user-friendly platform to analyze many GWAS in a systematic framework.  
-> ## The five C of PENGUIN:
-> - ## Crossing: cross GWAS QC (comparing EAF and BETA), and cross-trait meta-analyses.
-> - ## Correlation: using methods such as LDSC to calculate genetic correlation.
-> - ## Causation: using Mendelian Randomization to assess causality. 
-> - ## Colocalization: for pleiotropic loci of interest, finding causal variants and mechanisms.  
-> - ## Connection: finding common pathways and networks, implicating potential drug targets.   
+
+## 1. Download & Run
+
+> 1. Download executables for [Windows](https://drive.google.com/file/d/1_mvYskEgSITqRBTBKbffBkdud0DCaXo5/view?usp=sharing), [Linux](https://drive.google.com/file/d/1zvgbGQJfpPJK3mL748cYrv83HgryEo-x/view?usp=sharing), [Mac OS](https://drive.google.com/file/d/18Pqs_NMOq5uXZunFSv2un72Tw3I5wyxX/view?usp=sharing)
+> 2. For Windows OS: the program could be run directly by double clicking "PAGEANT.exe".
+> 3. For Mac-OS: follow the instruction to install [Homebrew](https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh) and then run "[brew](https://brew.sh/) install zbar llvm", to install necessary libraries, and then double click "PAGEANT".
+> - For Linux: run "sudo apt-get install libzbar0 python3-pyqt5" to install packages, then run PAGEANT by typing "./PAGEANT".
+> - For advanced users, please check out the wiki for command line approaches.
+<br/>
 
 
-<br/><br/>  
+## 2. Example test-run 
 
-## 1. Crossing example output
-![London-Eye](./images/mhplot.png)
+> Once the GUI window is displayed, a user simply needs to click the “Analyze” button to do a “test-drive” without doing anything else.
+> Once a user gets familiar with the test-drive, he/she could change all parameters in the GUI interface:
+> > - sample name
+> > - genotype data (in VCF format)
+> > - configuration file
+> > - output location for the genetic report and log file
 
-<br/> 
+![Q1](./images/Fig_GUI.png)
 
-## 2. Correlation example output 
-![London-Eye](./images/correlation.png)
+<br/>
 
-<br/> 
 
-## 3. Causation example output
-![London-Eye](./images/mr.png)
+## 3. Example report 
 
-<br/> 
+> - #### A full example genetic report can be viewed [here](https://pageant.me/Report.html). 
 
-## 4. Colocalization example output
-![London-Eye](./images/colocalization.png)
+> - #### C1 (Crossing): cross GWAS QC (comparing EAF and BETA), and cross-trait meta-analyses.
 
-<br/> 
+> ![C1](./images/mhplot.png)
 
-## 5. Connection example output
-![London-Eye](./images/interaction.png)
-<br/> 
-![London-Eye](./images/network.png)
+> - #### C2 (Crrelation): using methods such as LDSC to calculate genetic correlation.
+
+> ![C2](./images/correlation.png)
+
+> - #### C3 (Causation): using Mendelian Randomization to assess causality
+
+> ![C3](./images/mr.png)
+
+> - #### C4 (Colocalization): for pleiotropic loci of interest, finding causal variants and mechanisms
+
+> ![C4](./images/colocalization.png)
+
+> - #### C5: Connection: finding common pathways and networks, implicating potential drug targets
+
+> ![C5](./images/network.png)
+
+
+<br/>
+
+### Contact & Cite
+
+> - [Jie Huang](jiehuang001@pku.edu.cn) MD MPH PhD, Department of Global Health, Peking University School of Public Health
+> - Manuscript under review
