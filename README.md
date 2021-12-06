@@ -33,23 +33,23 @@
 
 > - #### C1 (Crossing): cross GWAS QC (comparing EAF and BETA), and cross-trait meta-analyses.
 
-> ![C1](./images/mhplot.png)
+> > - ![C1](./images/mhplot.png)
 
 > - #### C2 (Crrelation): using methods such as LDSC to calculate genetic correlation.
 
-> ![C2](./images/correlation.png)
+> > - ![C2](./images/correlation.png)
 
 > - #### C3 (Causation): using Mendelian Randomization to assess causality
 
-> ![C3](./images/mr.png)
+> > - ![C3](./images/mr.png)
 
 > - #### C4 (Colocalization): for pleiotropic loci of interest, finding causal variants and mechanisms
 
-> ![C4](./images/colocalization.png)
+> > - ![C4](./images/colocalization.png)
 
 > - #### C5: Connection: finding common pathways and networks, implicating potential drug targets
 
-> ![C5](./images/network.png)
+> > - ![C5](./images/network.png)
 
 
 <br/>
