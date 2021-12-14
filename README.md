@@ -1,5 +1,5 @@
 
-## PENGUIN: Portable Engine for maNy GWAS towards Unconfounded bIological kNowledge
+## PENGUIN: Portable Engine of GWAS for Unconfounded bIological kNowledge
 <br/>
 
 
@@ -35,7 +35,7 @@
 
 > > - ![C1](./images/mhplot.png)
 
-> - #### C2 (Crrelation): using methods such as LDSC to calculate genetic correlation.
+> - #### C2 (Correlation): using methods such as LDSC to calculate genetic correlation.
 
 > > - ![C2](./images/correlation.png)
 
@@ -47,7 +47,7 @@
 
 > > - ![C4](./images/colocalization.png)
 
-> - #### C5: Connection: finding common pathways and networks, implicating potential drug targets
+> - #### C5: Collaboration: finding common pathways and networks, implicating potential drug targets
 
 > > - ![C5](./images/network.png)
 
