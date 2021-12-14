@@ -1,5 +1,5 @@
 
-## PENGUIN: Portable Engine of GWAS for Unconfounded bIological kNowledge
+## PENGUIN: a Portable Engine for GWAS towards Unconfounded bIological kNowledge
 <br/>
 
 
