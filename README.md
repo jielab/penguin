@@ -1,5 +1,5 @@
 
-## PENGUIN: Portable ENgine for GWAS towards Unconfounded InterrelatioN 
+## PENGUIN: Portable ENgine of GWAS towards Unconfounded Interrelation and Network
 <br/>
 
 
