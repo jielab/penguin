@@ -1,5 +1,5 @@
 
-## PENGUIN: Portable ENgine of GWAS towards Unconfounded Interrelation and Network
+## PENGUIN: Parallel Examining of Numerous GWAS to study Unconfounded Interrelation
 <br/>
 
 
