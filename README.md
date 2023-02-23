@@ -1,5 +1,5 @@
 
-## PENGUIN: Parallel Examining of Numerous GWAS to study Unconfounded Interrelation
+## PENGUIN: Progressively Establish Novel Genetics Underlying Interrelation
 <br/>
 
 
