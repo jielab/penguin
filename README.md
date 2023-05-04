@@ -12,7 +12,7 @@
 <br/>
 
 
-## 2. Example test-run 
+## 2. Example test run 
 
 > Once the GUI window is displayed, a user simply needs to click the “Analyze” button to do a “test-drive” without doing anything else.
 > Once a user gets familiar with the test-drive, he/she could change all parameters in the GUI interface:
