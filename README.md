@@ -49,10 +49,6 @@
 
 > > - ![C5](./images/network.png)
 
-
 <br/>
 
-### Contact & Cite
-
-> - [Jie Huang](jiehuang001@pku.edu.cn) MD MPH PhD, Department of Global Health, Peking University School of Public Health
-> - Manuscript under review
+<b>Cite</b>: Jie Huang , Zhi-Sheng Liang , Stefano Pallotti , Janice M Ranson , David J Llewellyn , Zhi-Jie Zheng , Daniel A King , Qiang Zhou , Houfeng Zheng , Valerio Napolioni. [PAGEANT: personal access to genome and analysis of natural traits](https://academic.oup.com/nar/article/50/7/e39/6470680). Nucleic Acids Res. 2022 Apr 22;50(7):e39. doi: 10.1093/nar/gkab1245.
